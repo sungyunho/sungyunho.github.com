@@ -1,2 +1,2 @@
 # sungyunho.github.com
-my git blog
+sungyunho's GitBlog
